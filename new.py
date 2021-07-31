@@ -1,16 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 29 22:43:56 2020
 
-@author: Krishna Madhuri
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 29 22:36:34 2020
-
-@author: Krishna Madhuri
-"""
 
 import nltk.classify.util
 nltk.download('movie_reviews')
